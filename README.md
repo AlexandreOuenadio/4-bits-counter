@@ -7,3 +7,8 @@
 * x 4 - red leds
 * x 1 - breadboard
 
+## circuit schematic
+
+![circuit-schematic](./4_bits_counter_schematic.jpg)
+
+

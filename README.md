@@ -8,7 +8,6 @@
 * x 1 - breadboard
 
 ## circuit schematic
-
-![circuit-schematic](./4_bits_counter_schematic.jpg)
+<img src="4_bits_counter_schematic.jpg" alt="4_bits_counter_schematic" style="width:500px;"/>
 
 

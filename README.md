@@ -4,6 +4,6 @@
 ## components used:
 * x 1 - arduino uno R3 microcontroller
 * x 4 - 330 ohms resistors
-* x 4 red leds
+* x 4 - red leds
 * x 1 - breadboard
 

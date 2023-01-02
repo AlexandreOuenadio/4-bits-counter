@@ -1,5 +1,5 @@
 # 4-bits-counter
-4 bits counter using an Arduino Uno R3 microcontroller
+4 bits counter using the Arduino Uno R3 microcontroller
 
 ## components used
 * x 1 - Arduino Uno R3 microcontroller

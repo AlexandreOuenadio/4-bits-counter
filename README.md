@@ -1,7 +1,7 @@
 # 4-bits-counter
 4 bits counter using an Arduino Uno R3 microcontroller
 
-## components used:
+## components used
 * x 1 - Arduino Uno R3 microcontroller
 * x 4 - 330 ohms resistors
 * x 4 - red leds
